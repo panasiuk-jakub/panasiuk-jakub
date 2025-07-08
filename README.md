@@ -53,7 +53,7 @@ My goal is to land my first job as a Junior Developer and grow in the mobile dev
 ## 📫 Kontakt / Contact
 
 - 📧 Email: [panasiuk.jakubw@gmail.com]  
-- 💼 LinkedIn: 
+- 💼 LinkedIn: [linkedin.com/in/jakub-panasiuk-5bb74a207](https://www.linkedin.com/in/jakub-panasiuk-5bb74a207)
 - 🌐 Portfolio: (coming soon)
 
 ---
