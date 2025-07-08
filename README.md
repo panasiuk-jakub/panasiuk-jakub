@@ -35,7 +35,7 @@ My goal is to land my first job as a Junior Developer and grow in the mobile dev
 
 ---
 
-## 📈 Moje cele na 2025 / My Goals for 2025
+## 📈 Moje cele na 2025 i 2026 / My Goals for 2025 and 2026
 
 - 🔜 Zbudować kilka pełnych aplikacji / Build several complete apps    
 - 🔜 Stworzyć własne portfolio / Build my personal portfolio website  
