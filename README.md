@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Cześć, jestem Jakub Panasiuk  
 
-<!--
-**panasiuk-jakub/panasiuk-jakub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🇵🇱 O mnie  
+- 🐍 Uczę się **Pythona** i rozwijam swoje umiejętności programistyczne  
+- 💻 Mam doświadczenie w **IT support**, teraz chcę wejść w świat programowania  
+- 🚀 Planuję rozwijać projekty open-source i portfolio na GitHubie  
+- 🌍 Aktualnie znajduje sie we Wrocławiu, w Polsce ale jestem otwarty w temacie relokacji 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🇬🇧 About me  
+- 🐍 I'm currently learning **Python** and improving my programming skills  
+- 💻 I have a background in **IT support**, now I'm focusing on software development  
+- 🚀 I plan to build open-source projects and grow my GitHub portfolio  
+- 🌍 Currently based in Wroclaw, Poland but open to relocate  
+
+---
+
+## 📈 Moje cele / My goals
+### 🇵🇱
+- Tworzyć projekty w Pythonie od podstaw  
+- Ćwiczyć dobre praktyki w kodzie (clean code, testy, dokumentacja)  
+- Rozwijać się w stronę backendu i automatyzacji  
+- Stopniowo budować ścieżkę kariery jako **junior developer**  
+
+### 🇬🇧
+- Build Python projects from scratch  
+- Practice good coding practices (clean code, testing, documentation)  
+- Develop towards backend and automation  
+- Gradually build a career path as a **junior developer**  
+
+---
+
+## 🔗 Gdzie mnie znaleźć / Where to find me
+- GitHub: [panasiuk-jakub](https://github.com/panasiuk-jakub)  
+- LinkedIn: [Jakub Panasiuk](https://www.linkedin.com/in/jakub-panasiuk-5bb74a207)  
