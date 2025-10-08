@@ -20,13 +20,13 @@
 ### 🇵🇱
 - Tworzyć projekty w Swifcie od podstaw  
 - Ćwiczyć dobre praktyki w kodzie (clean code, testy, dokumentacja)  
-- Rozwijać się w stronę backendu i automatyzacji  
+- Rozwijać się w stronę aplikacji mobilnych (iOS) i aplikacji dla ekosystemu Apple  
 - Stopniowo budować ścieżkę kariery jako **junior iOS developer**  
 
 ### 🇬🇧
 - Build Swift projects from scratch  
 - Practice good coding practices (clean code, testing, documentation)  
-- Develop towards backend and automation  
+- Develop towards mobile apps (iOS) and apps for Apple ecosystem
 - Gradually build a career path as a **junior iOS developer**  
 
 ---
